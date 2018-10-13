@@ -1,6 +1,6 @@
 # RedditImageScraper
 
-Simple python script that allows us to scrape images from given reddit link and save them to directory specified by us.
+Simple python script that allows us to scrape images from given reddit link and save them to directory specified by the user.
 
 ## Usage
 `python main.py -l <your_link_goes_here> -d <directory_to_save_images_to>`
